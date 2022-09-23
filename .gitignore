@@ -1,0 +1,12 @@
+data/habitatmaps/habitatmaps_masked.Rdata
+data/initpop/interpolation_maps.pdf
+data/species_traits/Guillermo/
+data/climatemaps/aggrVariables.Rdata
+
+model/Outputs/*
+!model/Outputs/dummy
+
+results/
+
+*.Rhistory
+.Rproj.user/
