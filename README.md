@@ -1,6 +1,6 @@
 # Demography-environment relationships improve mechanistic understanding of range dynamics under climate change
 
-This is supplementary material to the publication:
+This is supplementory material to the publication:
 
 *"Demography-environment relationships improve mechanistic understanding of range dynamics under climate change"*
 
@@ -16,11 +16,11 @@ AM and DZ were supported by Deutsche Forschungsgemeinschaft (DFG) under grant ag
 
 **Data provision**
 
-The study uses data from the Swiss breeding bird survey ([Schmid et al., 1998](#1)) and the Swiss breeding bird index ([Knaus et al., 2022](#2)) provided by the Swiss ornithological institute, Sempach.
+The study uses data from the Swiss breeding bird survey ([Schmid et al., 2004](#1)) and the Swiss breeding bird index ([Knaus et al., 2022](#2)) provided by the Swiss ornithological institute, Sempach.
 The repository contains processed versions of this data.
 
 <a id="1"></a>
-Schmid, H., Luder, R., Naef-Daenzer, B., Graf, R., & Zbinden, N. (1998). Schweizer Brutvogelatlas 1993–1996. Schweizerische Vogelwarte.
+Schmid, H., Zbinden, N., and Keller, V. (2004). Überwachung der Bestandsentwicklung häufiger Brutvögel in der Schweiz. Swiss Ornithological Institute.
 
 <a id="2"></a>
 Knaus, P., Strebel, N., & Sattler, T. (2022). The State of Birds in Switzerland 2022. Swiss Ornithological Institute. http://www.vogelwarte.ch/state
