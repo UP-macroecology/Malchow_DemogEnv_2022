@@ -1,6 +1,6 @@
 # Demography-environment relationships improve mechanistic understanding of range dynamics under climate change
 
-This is supplementory material to the publication:
+This is supplementary material to the publication:
 
 *"Demography-environment relationships improve mechanistic understanding of range dynamics under climate change"*
 
